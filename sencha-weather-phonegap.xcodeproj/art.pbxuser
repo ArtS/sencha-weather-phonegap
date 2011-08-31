@@ -1,0 +1,335 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* sencha-weather-phonegap */ = {
+		activeExec = 0;
+		executables = (
+			6E282EFF140E620600C8BFAF /* sencha-weather-phonegap */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6E282EFF140E620600C8BFAF /* sencha-weather-phonegap */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* sencha-weather-phonegap */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* sencha-weather-phonegap */,
+		);
+		codeSenseManager = 6E282F3A140E621400C8BFAF /* Code sense */;
+		executables = (
+			6E282EFF140E620600C8BFAF /* sencha-weather-phonegap */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					645,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					723,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					835,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					849,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					948,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					795,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 336489405;
+			PBXWorkspaceStateSaveDate = 336489405;
+		};
+		perUserProjectItems = {
+			6E282F46140E646600C8BFAF /* PBXTextBookmark */ = 6E282F46140E646600C8BFAF /* PBXTextBookmark */;
+			6E282F87140E669400C8BFAF /* PBXTextBookmark */ = 6E282F87140E669400C8BFAF /* PBXTextBookmark */;
+			6E282FC0140E685F00C8BFAF /* PBXTextBookmark */ = 6E282FC0140E685F00C8BFAF /* PBXTextBookmark */;
+			6E282FC1140E685F00C8BFAF /* PBXTextBookmark */ = 6E282FC1140E685F00C8BFAF /* PBXTextBookmark */;
+			6E282FC2140E685F00C8BFAF /* PBXTextBookmark */ = 6E282FC2140E685F00C8BFAF /* PBXTextBookmark */;
+			6E282FCB140E68DB00C8BFAF /* PBXTextBookmark */ = 6E282FCB140E68DB00C8BFAF /* PBXTextBookmark */;
+			6E282FD6140E6AA300C8BFAF /* PBXTextBookmark */ = 6E282FD6140E6AA300C8BFAF /* PBXTextBookmark */;
+			6E4CDBAF140E6BC8002252A1 /* PBXTextBookmark */ = 6E4CDBAF140E6BC8002252A1 /* PBXTextBookmark */;
+			6E929164140E6B7D00ACD271 /* PBXTextBookmark */ = 6E929164140E6B7D00ACD271 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6E282F39140E621400C8BFAF /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	308D052F1370CCF300D202BF /* icon.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* sencha_weather_phonegap-Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {998, 355}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 215}";
+		};
+	};
+	6E282EFF140E620600C8BFAF /* sencha-weather-phonegap */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "sencha-weather-phonegap";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	6E282F39140E621400C8BFAF /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6E282F3A140E621400C8BFAF /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6E282F43140E644100C8BFAF /* index.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1160, 572}}";
+			sepNavSelRange = "{1626, 0}";
+			sepNavVisRange = "{512, 1213}";
+			sepNavWindowFrame = "{{690, 143}, {750, 558}}";
+		};
+	};
+	6E282F46140E646600C8BFAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E282F47140E646600C8BFAF /* phonegap-1.0.0.js */;
+		name = "phonegap-1.0.0.js: 25";
+		rLen = 0;
+		rLoc = 860;
+		rType = 0;
+		vrLen = 951;
+		vrLoc = 0;
+	};
+	6E282F47140E646600C8BFAF /* phonegap-1.0.0.js */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.javascript;
+		name = "phonegap-1.0.0.js";
+		path = "/Users/art/Dropbox/sencha-weather-phonegap/www/phonegap-1.0.0.js";
+		sourceTree = "<absolute>";
+	};
+	6E282F49140E646600C8BFAF /* index.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = index.html;
+		path = www/index_old.html;
+		sourceTree = SOURCE_ROOT;
+	};
+	6E282F87140E669400C8BFAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* sencha_weather_phonegap-Prefix.pch */;
+		name = "sencha_weather_phonegap-Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 215;
+		vrLoc = 0;
+	};
+	6E282F97140E66F200C8BFAF /* apple.css */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1015516, 355}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 145073}";
+		};
+	};
+	6E282F9B140E66F200C8BFAF /* app.js */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 430}}";
+			sepNavSelRange = "{245, 0}";
+			sepNavVisRange = "{0, 247}";
+			sepNavWindowFrame = "{{199, 147}, {750, 558}}";
+		};
+	};
+	6E282F9C140E66F200C8BFAF /* controller.js */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {998, 1482}}";
+			sepNavSelRange = "{3723, 0}";
+			sepNavVisRange = "{0, 836}";
+		};
+	};
+	6E282FA2140E66F200C8BFAF /* view.js */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {998, 2249}}";
+			sepNavSelRange = "{156, 0}";
+			sepNavVisRange = "{0, 852}";
+			sepNavWindowFrame = "{{176, 168}, {750, 558}}";
+		};
+	};
+	6E282FC0140E685F00C8BFAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E282F9B140E66F200C8BFAF /* app.js */;
+		name = "app.js: 11";
+		rLen = 0;
+		rLoc = 245;
+		rType = 0;
+		vrLen = 232;
+		vrLoc = 0;
+	};
+	6E282FC1140E685F00C8BFAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E282F97140E66F200C8BFAF /* apple.css */;
+		name = "apple.css: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 145073;
+		vrLoc = 0;
+	};
+	6E282FC2140E685F00C8BFAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E282F49140E646600C8BFAF /* index.html */;
+		name = "index_old.html: 37";
+		rLen = 0;
+		rLoc = 1371;
+		rType = 0;
+		vrLen = 861;
+		vrLoc = 1255;
+	};
+	6E282FCB140E68DB00C8BFAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E282F43140E644100C8BFAF /* index.html */;
+		name = "index.html: 34";
+		rLen = 0;
+		rLoc = 1619;
+		rType = 0;
+		vrLen = 898;
+		vrLoc = 825;
+	};
+	6E282FD6140E6AA300C8BFAF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E282FA2140E66F200C8BFAF /* view.js */;
+		name = "view.js: 7";
+		rLen = 0;
+		rLoc = 156;
+		rType = 0;
+		vrLen = 852;
+		vrLoc = 0;
+	};
+	6E4CDBAF140E6BC8002252A1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E282F9C140E66F200C8BFAF /* controller.js */;
+		name = "controller.js: 112";
+		rLen = 0;
+		rLoc = 3723;
+		rType = 0;
+		vrLen = 836;
+		vrLoc = 0;
+	};
+	6E929164140E6B7D00ACD271 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 6E282F9C140E66F200C8BFAF /* controller.js */;
+		name = "controller.js: 112";
+		rLen = 0;
+		rLoc = 3723;
+		rType = 0;
+		vrLen = 822;
+		vrLoc = 14;
+	};
+}

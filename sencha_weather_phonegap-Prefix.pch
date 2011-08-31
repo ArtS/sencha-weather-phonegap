@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'sencha-weather-phonegap' target in the 'sencha-weather-phonegap' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
