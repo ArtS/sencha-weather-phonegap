@@ -10,7 +10,7 @@
         loaded: false,
 
         listCities: function() {
-            var townIDs = ['2018708', '1103816', '1105779', '1099805', '1100661', '1100968']
+            var townIDs = ['2018708', '1103816', '1105779', '1099805', '1100661', '1098081', '1100968']
               , data = []
               , i = 0
               , store = Ext.getStore('CitiesStore')
@@ -66,7 +66,7 @@
             })
         },
 
-        refreshCities: function() {
+        refreshDetails: function() {
             var ctrl = Ext.ControllerManager.get('weather')
             ctrl.loaded = false
             ctrl.list()
@@ -96,10 +96,10 @@
                 sunset: data.astronomy.sunset,
                 condition_now: data.condition.text,
                 temp_now: Math.round(data.condition.temperature) + ' C',
-                temp_today: Weather.utils.getCelsius(data.forecast[0].low_temperature) + ' - ' +
+                temp_today: Weather.utils.getCelsius(data.forecast[0].low_temperature) + ' ... ' +
                             Weather.utils.getCelsius(data.forecast[0].high_temperature) + 'C',
                 condition_today: data.forecast[0].condition,
-                temp_tomorrow: Weather.utils.getCelsius(data.forecast[1].low_temperature) + ' - ' +
+                temp_tomorrow: Weather.utils.getCelsius(data.forecast[1].low_temperature) + ' ... ' +
                                Weather.utils.getCelsius(data.forecast[1].high_temperature) + 'C',
                 condition_tomorrow: data.forecast[1].condition
             }, 'City')

@@ -24,7 +24,7 @@
                         items: [
                             {
                                 iconCls: 'refresh',
-                                handler: Weather.controllers.weather.refreshCities
+                                handler: Weather.controllers.weather.listCities
                             }
                         ]
                     }
@@ -77,7 +77,7 @@
         onItemDisclosure: true,
         itemTpl: new Ext.XTemplate(
               '<div style="margin-top: 5px; float: left;">{location.city}</div>'
-            , '<div style="margin-top: 5px; margin-right: 10px; float: right">{[this.getLowTemp(values)]}&deg; - {[this.getHighTemp(values)]}&deg; C</div>'
+            , '<div style="margin-top: 5px; margin-right: 10px; float: right">{[this.getLowTemp(values)]}&deg; ... {[this.getHighTemp(values)]}&deg; C</div>'
             , {
                 getLowTemp: function(v) {
                     return Weather.utils.getCelsius(v.forecast[0].low_temperature)
@@ -87,6 +87,9 @@
                 }
               }),
         listeners: {
+            itemtap: function(me, i, el, evt) {
+                this.handleItemDisclosure(evt, el)
+            },
             disclose: function(rec) {
                 Ext.dispatch({
                     controller: 'weather',
