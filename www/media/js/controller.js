@@ -88,7 +88,7 @@
                 }
             }
 
-            Ext.getCmp('detailsToolbar').setTitle(data.location.city)
+            Ext.getCmp('detailsToolbar').setTitle(data.location.city.substring(0, 10))
 
             formData = Ext.ModelMgr.create({
                 wind: Math.round(data.wind.speed) + ' ' + data.wind.direction,

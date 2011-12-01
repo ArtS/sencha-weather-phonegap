@@ -76,9 +76,12 @@
         store: 'CitiesStore',
         onItemDisclosure: true,
         itemTpl: new Ext.XTemplate(
-              '<div style="margin-top: 5px; float: left;">{location.city}</div>'
+              '<div style="margin-top: 5px; float: left;">{[this.getTownName(values)]}</div>'
             , '<div style="margin-top: 5px; margin-right: 10px; float: right">{[this.getLowTemp(values)]}&deg; ... {[this.getHighTemp(values)]}&deg; C</div>'
             , {
+                getTownName: function(v) {
+                    return v.location.city.substring(0, 10)
+                },
                 getLowTemp: function(v) {
                     return Weather.utils.getCelsius(v.forecast[0].low_temperature)
                 },
